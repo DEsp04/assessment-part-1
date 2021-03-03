@@ -18,3 +18,21 @@
 
   For example, whenever you click a button, you want to add a value to index variable. In side the anonymous function placed in the JSX buttion, you want to call the setIndex("hello") so the index state variable now has "hello" instead of an empty "", useState("").
 */
+
+ //4
+
+/*
+React routing allows the application to become more dynamic in terms of instantly switching from one page to another. To make this dynamic happen you will install the dependencies from react-router-dom, in the index.js you would use the Router jsx and enclose the App component with it. Once you do that, in the App component you will use Switch as well as Route to add the functionality of allowing users to switch pages whenever a button or a link is clicked to redirect them into that specific page.
+*/
+
+
+/*
+5
+Yes, browser can the JSX because it has the same function as an html. However, it uses a virtual dom to render those elements
+
+
+
+
+7. Props will allow users to add attributes to the JSX component and retrieve the value when you at that component. State is present in that component when using useState and you can update it when it useState function is called
+*/
+
