@@ -1,0 +1,1 @@
+//Why does React utilize the virtual-dom?
